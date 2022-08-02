@@ -1,0 +1,23 @@
+body {
+    background-image: url("Image.jpg")
+   }
+.box-part{
+    padding: 50px 10px;
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
+span{
+    font-size: 12px;
+}
+.text{
+    margin:20px 0px;
+}
+a{
+    border-bottom: 1px solid blue;
+}
+.box{
+    padding:50px 10px;
+}
+.row{
+    padding:15px
+}
